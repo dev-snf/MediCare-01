@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+medicare.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+medicare.bold-themes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_41469c29c1cf469999457dc83bb16f09	t_f61bc51ecbf880366bd7d24e4003a6%7C%7C1780510363%7C%7C1780506763%7C%7C5de21bc2fde2d7131be1e04f41f97baa
+medicare.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	65d4d6289474a98571789556100fa679
+

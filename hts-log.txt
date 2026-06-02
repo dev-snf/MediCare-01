@@ -1,0 +1,199 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Jun 2026 00:09:30 at https://medicare.bold-themes.com/clinic/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://medicare.bold-themes.com/clinic/ -O1 "E:\Medi care linkedin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:10:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://medicare.bold-themes.com/clinic/xmlrpc.php?rsd (from https://medicare.bold-themes.com/clinic/)
+00:10:50	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://medicare.bold-themes.com/clinic/)
+00:10:50	Error: 	"Bad Request" (400) at link https://medicare.bold-themes.com/clinic/wp-admin/admin-ajax.php (from https://medicare.bold-themes.com/clinic/)
+00:13:12	Warning: 	Found for https://medicare.bold-themes.com/clinic/shop/checkout/
+00:13:12	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/shop/checkout/ to https://medicare.bold-themes.com/clinic/shop/cart/
+00:13:34	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/Essential.svg?ljkb42 (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/HealthCheckups.svg?dflkndfa (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/HumanOrgansBody.svg?kndfana (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/Medical-2.svg?berf35n (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/XRayUltrasound.svg?qwljb3d (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/CoronaVirus.svg?kjb31b4 (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/fonts/VirusTransmission.svg?paodu11 (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/gfx/demo-screen.jpg (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/fonts/star.eot (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot? (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Error: 	"Not Found" (404) at link https://medicare.bold-themes.com/clinic/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.png (from https://medicare.bold-themes.com/clinic/wp-content/themes/medicare/style.css?ver=7.0)
+00:13:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://medicare.bold-themes.com/clinic/xmlrpc.php?rsd (from https://medicare.bold-themes.com/clinic/)
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=769
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=769 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-centered-menu/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=976
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=976 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/horizontal-left-with-hero-image/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=983
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=983 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/horizontal-right-with-hero-image/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=771
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=771 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-centered-menu/horizontal-centered-menu-with-widgets/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=754
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=754 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=759
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=759 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/horizontal-left-menu-with-widgets/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=777
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=777 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/horizontal-left-below-logo/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=779
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=779 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-left-menu/horizontal-left-below-logo-with-widgets/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=763
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=763 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-right-menu/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=765
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=765 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-right-menu-with-widgets/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=781
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=781 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-right-menu/horizontal-right-below-logo/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=783
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=783 to https://medicare.bold-themes.com/clinic/sample-page/horizontal-right-menu/horizontal-right-below-logo-with-widgets/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=6
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=6 to https://medicare.bold-themes.com/clinic/about-us/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=8
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=8 to https://medicare.bold-themes.com/clinic/about-us/team/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=10
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=10 to https://medicare.bold-themes.com/clinic/about-us/doctors-profile/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=294
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=294 to https://medicare.bold-themes.com/clinic/about-us/galleries/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=296
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=296 to https://medicare.bold-themes.com/clinic/about-us/working-hours/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1235
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1235 to https://medicare.bold-themes.com/clinic/about-us/timetable/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=298
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=298 to https://medicare.bold-themes.com/clinic/about-us/appointments/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=300
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=300 to https://medicare.bold-themes.com/clinic/about-us/contact-us/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=304
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=304 to https://medicare.bold-themes.com/clinic/pages/services/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=306
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=306 to https://medicare.bold-themes.com/clinic/pages/departments/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=308
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=308 to https://medicare.bold-themes.com/clinic/pages/procedures/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1236
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1236 to https://medicare.bold-themes.com/clinic/about-us/before-after/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=310
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=310 to https://medicare.bold-themes.com/clinic/pages/cost-calculator/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=312
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=312 to https://medicare.bold-themes.com/clinic/pages/faq/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=314
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=314 to https://medicare.bold-themes.com/clinic/pages/special-offers/
+00:13:35	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=318
+00:13:35	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=318 to https://medicare.bold-themes.com/clinic/pages/testimonials/
+00:14:05	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=504
+00:14:05	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=504 to https://medicare.bold-themes.com/clinic/blog/blog-tiles/
+00:14:05	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=498
+00:14:05	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=498 to https://medicare.bold-themes.com/clinic/blog/blog-grid/
+00:15:30	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1173
+00:15:30	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1173 to https://medicare.bold-themes.com/clinic/shop/four-columns-products/
+00:15:41	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=22
+00:15:41	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=22 to https://medicare.bold-themes.com/clinic/product/bci-adult-soft-boot-sensor/
+00:15:42	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=818
+00:15:42	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=818 to https://medicare.bold-themes.com/clinic/shop/my-account/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=816
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=816 to https://medicare.bold-themes.com/clinic/shop/cart/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=232
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=232 to https://medicare.bold-themes.com/clinic/2015/10/18/grid-gallery-post/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=230
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=230 to https://medicare.bold-themes.com/clinic/2015/09/22/carousel-gallery-post/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=243
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=243 to https://medicare.bold-themes.com/clinic/2015/09/08/standard-post/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=79
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=79 to https://medicare.bold-themes.com/clinic/product/chairs/
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=76
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=76 to https://medicare.bold-themes.com/clinic/product/weight-scale/
+00:15:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://medicare.bold-themes.com/clinic/xmlrpc.php?rsd (from https://medicare.bold-themes.com/clinic/)
+00:15:43	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=266
+00:15:43	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=266 to https://medicare.bold-themes.com/clinic/2015/08/08/sticky-standard-post/
+00:16:05	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=13
+00:16:05	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=13 to https://medicare.bold-themes.com/clinic/2015/09/03/image-post/
+00:16:09	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=287
+00:16:09	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=287 to https://medicare.bold-themes.com/clinic/2015/09/01/audio-post/
+00:16:11	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=291
+00:16:11	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=291 to https://medicare.bold-themes.com/clinic/2015/08/25/link-post/
+00:16:11	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=251
+00:16:11	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=251 to https://medicare.bold-themes.com/clinic/2015/08/06/grid-gallery-post-with-overlay/
+00:16:11	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=289
+00:16:11	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=289 to https://medicare.bold-themes.com/clinic/2015/08/01/quote-post/
+00:16:11	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=234
+00:16:11	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=234 to https://medicare.bold-themes.com/clinic/2015/07/11/video-post/
+00:16:12	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=31
+00:16:12	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=31 to https://medicare.bold-themes.com/clinic/product/connex-vital-signs-monitor/
+00:16:12	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=37
+00:16:12	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=37 to https://medicare.bold-themes.com/clinic/product/digital-weight-scale/
+00:16:13	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=56
+00:16:13	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=56 to https://medicare.bold-themes.com/clinic/product/fully-enclosed-treatment-table/
+00:16:15	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=15
+00:16:15	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=15 to https://medicare.bold-themes.com/clinic/product/medi-trance-cadence-defibrillation-electrode/
+00:16:15	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=53
+00:16:15	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=53 to https://medicare.bold-themes.com/clinic/product/ndd-easy-one-plus-diagnostic-spirometer/
+00:16:17	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=40
+00:16:17	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=40 to https://medicare.bold-themes.com/clinic/product/patient-exam-couch/
+00:16:18	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=60
+00:16:18	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=60 to https://medicare.bold-themes.com/clinic/product/treatment-table/
+00:16:20	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=34
+00:16:20	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=34 to https://medicare.bold-themes.com/clinic/product/probp-2400-digital-blood-pressure-device/
+00:16:21	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=50
+00:16:21	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=50 to https://medicare.bold-themes.com/clinic/product/sdi-astra-touch-spirometer/
+00:16:22	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=19
+00:16:22	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=19 to https://medicare.bold-themes.com/clinic/product/small-plastic-storage-bin/
+00:16:23	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=73
+00:16:23	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=73 to https://medicare.bold-themes.com/clinic/product/stethoscope/
+00:16:24	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/shop/page/1/
+00:16:24	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/shop/page/1/ to https://medicare.bold-themes.com/clinic/shop/
+00:16:24	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=70
+00:16:24	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=70 to https://medicare.bold-themes.com/clinic/product/stethoscope-blood-pressure-cuff/
+00:16:25	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=47
+00:16:25	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=47 to https://medicare.bold-themes.com/clinic/product/spiroperfect-pc-based-spirometer/
+00:16:26	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1259
+00:16:26	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1259 to https://medicare.bold-themes.com/clinic/timetable/event/lunch-break-4/
+00:16:28	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1258
+00:16:28	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1258 to https://medicare.bold-themes.com/clinic/timetable/event/lunch-break-3/
+00:16:30	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1257
+00:16:30	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1257 to https://medicare.bold-themes.com/clinic/timetable/event/lunch-break-2/
+00:16:32	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1256
+00:16:32	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1256 to https://medicare.bold-themes.com/clinic/timetable/event/lunch-break/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1255
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1255 to https://medicare.bold-themes.com/clinic/timetable/event/surgery-4/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1254
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1254 to https://medicare.bold-themes.com/clinic/timetable/event/interventions-2/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1253
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1253 to https://medicare.bold-themes.com/clinic/timetable/event/surgery-3/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1252
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1252 to https://medicare.bold-themes.com/clinic/timetable/event/consultation-4/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1251
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1251 to https://medicare.bold-themes.com/clinic/timetable/event/regular-checkups-2/
+00:16:34	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1250
+00:16:34	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1250 to https://medicare.bold-themes.com/clinic/timetable/event/analysis/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1242
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1242 to https://medicare.bold-themes.com/clinic/timetable/column/dr-george-button/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1240
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1240 to https://medicare.bold-themes.com/clinic/timetable/column/dr-ashley-willson/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1239
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1239 to https://medicare.bold-themes.com/clinic/timetable/column/dr-sussie-wolff/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1241
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1241 to https://medicare.bold-themes.com/clinic/timetable/column/dr-gabriela-beckett/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1249
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1249 to https://medicare.bold-themes.com/clinic/timetable/event/consultation-3/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1248
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1248 to https://medicare.bold-themes.com/clinic/timetable/event/interventions/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1247
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1247 to https://medicare.bold-themes.com/clinic/timetable/event/surgery-2/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1246
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1246 to https://medicare.bold-themes.com/clinic/timetable/event/consultation-2/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1245
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1245 to https://medicare.bold-themes.com/clinic/timetable/event/surgery/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1244
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1244 to https://medicare.bold-themes.com/clinic/timetable/event/regular-checkups/
+00:16:49	Warning: 	Moved Permanently for https://medicare.bold-themes.com/clinic/?p=1243
+00:16:49	Warning: 	File has moved from https://medicare.bold-themes.com/clinic/?p=1243 to https://medicare.bold-themes.com/clinic/timetable/event/consultation/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 20 seconds : 1063 links scanned, 956 files written (61653050 bytes overall) [32108500 bytes received at 72973 bytes/sec], 41171041 bytes transferred using HTTP compression in 626 files, ratio 22%, 67.4 requests per connection
+(22 errors, 166 warnings, 0 messages)
